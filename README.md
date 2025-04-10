@@ -41,6 +41,7 @@ facebook_scraper/
 Нужен для входа без логина/пароля.
 
 Расширение: https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm
+
 Туториал: https://youtu.be/1JeNheUHCis
 
 ### groups.txt
