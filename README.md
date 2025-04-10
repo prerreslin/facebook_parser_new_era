@@ -40,9 +40,9 @@ facebook_scraper/
 Файл cookies, экспортированный из вашего браузера.  
 Нужен для входа без логина/пароля.
 
-Демонстрация
-(https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm)
-[![Watch the video](https://img.youtube.com/vi/1JeNheUHCis/0.jpg)](https://www.youtube.com/watch?v=1JeNheUHCis)
+Расширение: https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm
+Демонстрация:
+https://github.com/user-attachments/assets/bd5df58b-59a5-4e1a-b780-147eaf2ce5cd
 
 ### groups.txt
 
