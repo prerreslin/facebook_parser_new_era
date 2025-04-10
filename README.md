@@ -42,7 +42,7 @@ facebook_scraper/
 
 Расширение: https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm
 Демонстрация:
-https://github.com/user-attachments/assets/bd5df58b-59a5-4e1a-b780-147eaf2ce5cd
+[https://github.com/user-attachments/assets/bd5df58b-59a5-4e1a-b780-147eaf2ce5cd](https://github.com/user-attachments/assets/bd5df58b-59a5-4e1a-b780-147eaf2ce5cd.mp4)
 
 ### groups.txt
 
