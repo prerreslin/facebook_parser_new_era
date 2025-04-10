@@ -1,4 +1,4 @@
-# Facebook Group Post Scraper
+# Facebook Group parser
 
 Скрипт на Python с использованием Selenium для автоматического парсинга постов в Facebook-группах. Ищет ключевые слова в тексте постов и сохраняет подходящие в `results.txt`.
 
@@ -62,7 +62,7 @@ https://www.facebook.com/groups/yourgroup2
 ## 🚀 Запуск
 
 ```bash
-python scraper.py
+python get_posts.py
 ```
 
 ## ✅ Результат
