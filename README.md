@@ -26,7 +26,7 @@ pip install selenium
 
 ```
 facebook_scraper/
-├── scraper.py          # основной скрипт
+├── get_posts.py          # основной скрипт
 ├── cookies.json        # cookies для входа
 ├── groups.txt          # список групп Facebook
 ├── keywords.txt        # список ключевых слов
